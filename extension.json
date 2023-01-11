@@ -1,0 +1,13 @@
+{
+  "name": "Carriage Return to Line Feed Converter",
+  "apiVersion": "1.0.0",
+  "author": "Mark \"Cool Guy\" Garrison",
+  "version": "0.0.1",
+  "description": "This HLA prints serial results to the terminal, replacing \\r with \\n. It does not produce output frames.",
+  "extensions": {
+    "Carriage Return to Line Feed Converter": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
